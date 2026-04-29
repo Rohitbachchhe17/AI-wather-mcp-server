@@ -1,4 +1,4 @@
-# AI-wather-mcp-server
+# AI-weather-mcp-server
 MCP Server
 There’s a list of public MCP servers here:
 
