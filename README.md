@@ -5,6 +5,12 @@ There’s a list of public MCP servers here:
 👉 https://github.com/modelcontextprotocol/servers
 
 👉 Weather MCP Server — https://github.com/mschneider82/mcp-openweather
+
+
+<img width="853" height="430" alt="image" src="https://github.com/user-attachments/assets/6012f4d0-75a7-4786-ba70-f67498d3c64a" />
+<img width="758" height="411" alt="image" src="https://github.com/user-attachments/assets/c92e7669-5dd9-441f-a1f6-4961b13e7dda" />
+
+
 Environment setup:
 Setting Up the Weather MCP Server:
 Step 1 – Install Go: https://go.dev/dl/
